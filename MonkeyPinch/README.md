@@ -1,0 +1,1 @@
+This is a sample project to learn the concept of gestures in iOS. I have followed the tutorial at https://www.raywenderlich.com/162745/uigesturerecognizer-tutorial-getting-started and created this project. 
